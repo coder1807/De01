@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De01.BUS", "De01.BUS\De01.BUS.csproj", "{D71AFA13-9756-465E-819E-C1E1DD7A1679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De01.DAL", "De01.DAL\De01.DAL.csproj", "{F557C143-A1A3-4576-B3E7-E6A97FF1E9DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De01.GUI", "De01.GUI\De01.GUI.csproj", "{A38B161F-BBC2-4263-8738-0A69DEE946ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D71AFA13-9756-465E-819E-C1E1DD7A1679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D71AFA13-9756-465E-819E-C1E1DD7A1679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D71AFA13-9756-465E-819E-C1E1DD7A1679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D71AFA13-9756-465E-819E-C1E1DD7A1679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F557C143-A1A3-4576-B3E7-E6A97FF1E9DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F557C143-A1A3-4576-B3E7-E6A97FF1E9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F557C143-A1A3-4576-B3E7-E6A97FF1E9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F557C143-A1A3-4576-B3E7-E6A97FF1E9DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38B161F-BBC2-4263-8738-0A69DEE946ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38B161F-BBC2-4263-8738-0A69DEE946ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38B161F-BBC2-4263-8738-0A69DEE946ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38B161F-BBC2-4263-8738-0A69DEE946ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {635F051E-29FC-4819-AF68-36BB8696DE0D}
+	EndGlobalSection
+EndGlobal

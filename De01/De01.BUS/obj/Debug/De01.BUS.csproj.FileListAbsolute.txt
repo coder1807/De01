@@ -1,0 +1,15 @@
+D:\BuiHoangViet_2180608218\De01\De01.BUS\bin\Debug\De01.BUS.dll.config
+D:\BuiHoangViet_2180608218\De01\De01.BUS\bin\Debug\De01.BUS.dll
+D:\BuiHoangViet_2180608218\De01\De01.BUS\bin\Debug\De01.BUS.pdb
+D:\BuiHoangViet_2180608218\De01\De01.BUS\bin\Debug\De01.DAL.dll
+D:\BuiHoangViet_2180608218\De01\De01.BUS\bin\Debug\EntityFramework.dll
+D:\BuiHoangViet_2180608218\De01\De01.BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\BuiHoangViet_2180608218\De01\De01.BUS\bin\Debug\De01.DAL.pdb
+D:\BuiHoangViet_2180608218\De01\De01.BUS\bin\Debug\De01.DAL.dll.config
+D:\BuiHoangViet_2180608218\De01\De01.BUS\bin\Debug\EntityFramework.xml
+D:\BuiHoangViet_2180608218\De01\De01.BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\BuiHoangViet_2180608218\De01\De01.BUS\obj\Debug\De01.BUS.csproj.AssemblyReference.cache
+D:\BuiHoangViet_2180608218\De01\De01.BUS\obj\Debug\De01.BUS.csproj.CoreCompileInputs.cache
+D:\BuiHoangViet_2180608218\De01\De01.BUS\obj\Debug\De01.BUS.csproj.CopyComplete
+D:\BuiHoangViet_2180608218\De01\De01.BUS\obj\Debug\De01.BUS.dll
+D:\BuiHoangViet_2180608218\De01\De01.BUS\obj\Debug\De01.BUS.pdb
