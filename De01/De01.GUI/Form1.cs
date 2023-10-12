@@ -31,7 +31,7 @@ namespace De01.GUI
                 setGridViewStyle(dgvStudent);
                 var listSinhVien = sinhVienService.GetAll();
                 var listLop = lopService.GetAll();
-                FillFacultyCombobox(listLop);
+                FillClassCombobox(listLop);
                 BindGrid(listSinhVien);
             }
             catch (Exception ex)
@@ -40,7 +40,7 @@ namespace De01.GUI
             }
         }
 
-        private void FillFacultyCombobox(List<Lop> listLop)
+        private void FillClassCombobox(List<Lop> listLop)
         {
             listLop.Insert(0, new Lop());
             this.cmbLop.DataSource = listLop;
